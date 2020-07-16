@@ -2,7 +2,7 @@
 
 # CV - Guilherme 
 
-![](assets\preview.png)
+![] (cvCurriculo\assets\preview.png)
 
 
 
