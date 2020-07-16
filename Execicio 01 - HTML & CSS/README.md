@@ -2,6 +2,8 @@
 
 # CV - Guilherme 
 
+![](assets\preview.png)
+
 
 
 # Instruções : 
@@ -71,8 +73,3 @@
 ⦁	Remover o negrito dos outros cabeçalhos usados e decorá-los com um sublinhado.
 
 ⦁	Alinhar todos os parágrafos de maneira “justificada”, com um tamanho de fonte de 14px e um espaçamento entre linhas 9px maior que o tamanho da fonte.
-
-
-![](cvCurriculo\assets\preview.png)
-
-
