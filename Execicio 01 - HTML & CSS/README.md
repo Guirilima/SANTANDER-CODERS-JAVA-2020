@@ -3,7 +3,9 @@
 # CV - Guilherme 
 
 
+
 ![](cvCurriculo\assets\preview.png)
+
 
 
 # Instruções : 
