@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="177" height="164" viewBox="0 0 177 164">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2198de"/>
+      <stop offset="1" stop-color="#2885b9"/>
+    </linearGradient>
+  </defs>
+  <g id="New_" data-name="New!" transform="translate(-1002 583)">
+    <path id="Subtração_3" data-name="Subtração 3" d="M89,164h0L0,87.931V0H177V88.785L89,164Z" transform="translate(1002 -583)" fill="url(#linear-gradient)"/>
+    <rect id="Retângulo_12" data-name="Retângulo 12" width="177" height="24" transform="translate(1002 -575)" fill="rgba(255,255,255,0.11)"/>
+    <rect id="Retângulo_15" data-name="Retângulo 15" width="177" height="24" transform="translate(1002 -462)" fill="rgba(255,255,255,0.05)"/>
+    <g id="Subtração_6" data-name="Subtração 6" transform="translate(1007 -580)" fill="none">
+      <path d="M83.971,158h0L0,84.714V0H167V85.537L83.972,158Z" stroke="none"/>
+      <path d="M 83.97165679931641 155.34521484375 L 165 84.62815856933594 L 165 32.83743286132813 L 165 2 L 2 2 L 2 19.51220512390137 L 2 83.80479431152344 L 83.97165679931641 155.34521484375 M 83.97138977050781 158 L 83.97165679931641 157.9998016357422 L 0 84.71389007568359 L 0 19.51220512390137 L 0 0 L 167 0 L 167 32.83743286132813 L 167 85.53724670410156 L 83.97165679931641 157.9998016357422 L 83.97138977050781 158 Z" stroke="none" fill="#fff"/>
+    </g>
+    <text id="NEW_2" data-name="NEW!" transform="translate(1049 -500)" fill="#fff" font-size="30" font-family="Verdana"><tspan x="0" y="0">NEW!</tspan></text>
+  </g>
+</svg>
